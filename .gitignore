@@ -1,0 +1,5 @@
+/data/*
+!data/game_variants/
+!data/game_variants/*/
+!data/map_variants/
+!data/map_variants/*/
